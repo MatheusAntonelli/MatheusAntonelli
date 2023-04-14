@@ -1,6 +1,9 @@
 ### Oi, Eu sou o Matheus Antonelli 👋
 
  🔬 ESTUDANTE DE  AGRONOMIA - UTFPR.
+ 📚 Análise e desenvolvimento de Sistemas - UNICESUMAR
+ 
+ Atualmente sou bolsista em um projeto de automação de pH e EC para ferirrigação em hidroponia.
 
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusAntonelli&show_icons=true&theme=onedark&count_private=true)
