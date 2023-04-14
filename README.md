@@ -3,7 +3,7 @@
  🔬 ESTUDANTE DE  AGRONOMIA - UTFPR.
  📚 Análise e desenvolvimento de Sistemas - UNICESUMAR
  
- Atualmente sou bolsista em um projeto de automação de pH e EC para ferirrigação em hidroponia.
+ Atualmente sou bolsista em um projeto de pesquisa voltado para o desenvolvimento de um sistema automatizado para monitoramento e controle de pH e EC na cultura de plantas hidropônicas. Nosso objetivo é melhorar a eficiência e produtividade da agricultura hidropônica, fornecendo medições e ajustes em tempo real das soluções nutricionais, resultando em crescimento ótimo das plantas e aumento do rendimento.
 
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusAntonelli&show_icons=true&theme=onedark&count_private=true)
