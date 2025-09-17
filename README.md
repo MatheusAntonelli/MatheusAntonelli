@@ -6,8 +6,6 @@
  Atualmente sou bolsista em um projeto de pesquisa voltado para o desenvolvimento de um sistema automatizado para monitoramento e controle de pH e EC na cultura de plantas hidropônicas. Nosso objetivo é melhorar a eficiência e produtividade da agricultura hidropônica, fornecendo medições e ajustes em tempo real das soluções nutricionais, resultando em crescimento ótimo das plantas e aumento do rendimento.
 
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusAntonelli&show_icons=true&theme=onedark&count_private=true)
-
  ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
